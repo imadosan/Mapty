@@ -7,7 +7,7 @@
 
 </div>
 
-![ScreenShot](images/screenshot.png)
+![screenshot](images/sceenshot.png)
 
 You can view the live site -> [Here](https://mapty-imad.netlify.app/)
 

